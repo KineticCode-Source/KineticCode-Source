@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Developing autonomus test software
-- 🌱 I’m currently learning Flask
 - 💬 Ask me about Python, C++, Django, Flask
 - ⚡ Fun fact: Angel underground station in London has the longest escalator of all underground stations in London, it's 60m high.
 
